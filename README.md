@@ -7,7 +7,7 @@ A comprehensive statutory blueprint and academic design project establishing a n
 * Name: Neil Khadakban
 * Roll Number: 24108B0012
 * Email: neilkhadakban@gmail.com
-* Course: Second-Year Engineering
+* Course: Second-Year EXCS Engineering
 * Institution: Vidyalankar Institute of Technology (VIT)
 * Project Context: National Cybersecurity Law Design Project (CDAC Academic Assignment)
 * Evaluation Weightage: 100 Marks Total (Report, Presentation, and Visual Models)
@@ -23,11 +23,11 @@ This repository contains the complete suite of deliverables for the National Cyb
 
 ```text
 ├── README.md                                   <-- Repository Documentation (This File)
-├── CDAC_Cybersecurity_Project_Presentation.pdf <-- 17-Slide Presentation Deck
+├── CDAC_Cybersecurity_Project_Presentation.pdf <-- Presentation Deck
 ├── CDAC_Cybersecurity_Project_Report.pdf       <-- Comprehensive 25+ Page Statutory Report
 ├── Security Framework.png                      <-- Lifecycle governance rules & corporate duties
 ├── Cybercrime Categories.png                   <-- Statutory penal codes and criminal matrix
-├── Citizens' Rights.png                        <-- 6 Core constitutional privacy guarantees
+├── Citizens' Rights.png                        <-- Core constitutional privacy guarantees
 ├── Data Breach Response.png                    <-- Enterprise emergency network isolation blueprint
-├── Investigation Process.png                   <-- 5-Step statutory legal workflow chart
-└── Cybercrime Reporting.png                    <-- 7-Stage operational incident lifecycle
+├── Investigation Process.png                   <-- Legal workflow chart
+└── Cybercrime Reporting.png                    <-- Operational incident lifecycle
